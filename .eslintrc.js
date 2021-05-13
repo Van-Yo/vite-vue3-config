@@ -25,6 +25,7 @@ module.exports = {
         },
     },
     rules: {
+        'linebreak-style': 0,
         indent: ['error', 4], // eslint缩进四格
         'import/extensions': [2, 'never', { 'web.js': 'never', json: 'never' }],
         'import/no-extraneous-dependencies': [2, {
