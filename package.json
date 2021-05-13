@@ -25,6 +25,7 @@
         "@vue/compiler-sfc": "^3.0.5",
         "commitizen": "^4.2.4",
         "cz-conventional-changelog": "^3.3.0",
+        "cz-customizable": "^6.3.0",
         "eslint": "^7.26.0",
         "eslint-config-airbnb-base": "^14.2.1",
         "eslint-plugin-import": "^2.22.1",
@@ -39,7 +40,7 @@
     },
     "config": {
         "commitizen": {
-            "path": "./node_modules/cz-conventional-changelog"
+            "path": "./node_modules/cz-customizable"
         }
     }
 }
