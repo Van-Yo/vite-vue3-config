@@ -1,9 +1,9 @@
 <template>
     <div class="home-area">
         home
-        <el-button type="primary" @click="$store.commit('increment')">{{
+        <!-- <el-button type="primary" @click="$store.commit('increment')">{{
             $store.state.count
-        }}</el-button>
+        }}</el-button> -->
     </div>
 </template>
 
