@@ -4,5 +4,5 @@ name222.toString();
 const cmd123 = 12;
 cmd123.toFixed();
 
-const name2322 = [1, 2];
-name2322.join('');
+const name2323 = [1, 2];
+name2323.join('');
